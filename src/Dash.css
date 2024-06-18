@@ -1,0 +1,51 @@
+.page-wrapper {
+  width: 100%;
+}
+.paddingall {
+  padding: 10px 10px 10px 10px;
+  color: black;
+}
+.paddingalltotalincome {
+  padding: 10px 10px 10px 10px;
+}
+
+.pricetitle {
+  font-weight: 600;
+}
+
+.pricesubtitle {
+  font-size: 14px;
+}
+
+.iconstyle {
+  margin-top: 20px !important;
+  margin-left: 20px !important;
+  color: aliceblue;
+}
+
+.iconstyleblack {
+  margin-top: 20px !important;
+  margin-left: 20px !important;
+}
+
+.gradient {
+  background: rgb(40, 34, 70);
+  background: linear-gradient(
+    158deg,
+    rgba(40, 34, 70, 1) 0%,
+    rgba(30, 47, 141, 1) 100%
+  );
+}
+
+.gradientlight {
+  background: rgb(53, 138, 148);
+  background: linear-gradient(
+    158deg,
+    rgba(53, 138, 148, 1) 0%,
+    rgba(91, 180, 96, 1) 100%
+  );
+}
+
+.bgcolor {
+  width: 100%;
+}
